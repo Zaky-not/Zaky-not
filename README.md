@@ -22,7 +22,7 @@ Cyber Security • Backend Development • Artificial Intelligence • Networkin
 
 I'm **Muhammad Albar Al-Zaky**, an Informatics student at **Universitas Jambi**.
 
-Currently, I'm learning **Cyber Security**, **Artificial Intelligence**, **Backend Development**, **Networking**, and **MySQL** while building projects to improve my programming and problem-solving skills.
+I'm currently learning **Cyber Security**, **Artificial Intelligence**, **Backend Development**, **Networking**, and **MySQL** by building projects and improving my problem-solving skills.
 
 ---
 
@@ -49,14 +49,13 @@ Currently, I'm learning **Cyber Security**, **Artificial Intelligence**, **Backe
 
 ### 🎮 Flappy Bird Game
 
-A recreation of the classic **Flappy Bird** built using **Unity**.
+A recreation of the classic Flappy Bird built using **Unity**.
 
 **Features**
-
 - Player movement
 - Obstacle generation
 - Score system
-- Simple user interface
+- Simple UI
 
 ---
 
@@ -116,12 +115,10 @@ A clinic queue management application built using **Python** and **MySQL**.
 
 ---
 
-## 🎵 Now Playing
+## Activity Graph
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31hgxzwzhtnijaw7mfj6774r3q6q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false"/>
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaky-not&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -129,15 +126,19 @@ A clinic queue management application built using **Python** and **MySQL**.
 ## Connect
 
 <p align="center">
-  <a href="mailto:zakyyxd123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Zaky-not">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/jaky.not.jek.2233">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+
+<a href="mailto:zakyyxd123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Zaky-not">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/jaky.not.jek.2233">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 ---
