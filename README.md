@@ -1,23 +1,4 @@
 <p align="center"> <img src="./assets/banner.svg" width="100%" /> </p>
-<h1 align="center">Hi 👋, I'm Muhammad Albar Al-Zaky</h1>
-
-<p align="center">
-  <strong>Informatics Student at Universitas Jambi</strong>
-</p>
-
-<p align="center">
-Cyber Security • Backend Development • Artificial Intelligence • Networking
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=700&lines=Cyber+Security+Enthusiast;Backend+Developer+in+Progress;Building+Projects+One+Step+at+a+Time;Keep+Grinding,+Just+For+You."/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zaky-not&label=Profile+Views&color=3B82F6&style=flat"/>
-</p>
-
----
 
 ## About Me
 
