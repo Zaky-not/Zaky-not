@@ -1,3 +1,4 @@
+<p align="center"> <img src="./assets/banner.svg" width="100%" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Albar Al-Zaky</h1>
 
 <p align="center">
