@@ -1,140 +1,137 @@
-<p align="center"> <img src="./assets/banner.svg" width="100%" /> </p>
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="banner"/>
+</p>
 
-## About Me
-
-I'm **Muhammad Albar Al-Zaky**, an Informatics student at **Universitas Jambi**.
-
-I'm currently learning **Cyber Security**, **Artificial Intelligence**, **Backend Development**, **Networking**, and **MySQL** by building projects and improving my problem-solving skills.
-
----
-
-## Tech Stack
+<h1 align="center">Hi, I'm Muhammad Albar Al-Zaky 👋</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,mysql,git,github,linux,vscode,unity"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Informatics+Student;Cyber+Security+Enthusiast;Backend+Developer;Artificial+Intelligence+Learner;Always+Learning+New+Things"/>
+</p>
+
+<p align="center">
+Learning • Building • Improving
 </p>
 
 ---
 
-## Currently Learning
+# 🚀 About Me
 
-- Python
-- MySQL
-- Linux
-- Git & GitHub
-- REST API
-- Cyber Security Fundamentals
+I'm an Informatics student at **Universitas Jambi** 🇮🇩.
 
----
+I enjoy building software while continuously learning about:
 
-## Featured Projects
-
-### 🎮 Flappy Bird Game
-
-A recreation of the classic Flappy Bird built using **Unity**.
-
-**Features**
-- Player movement
-- Obstacle generation
-- Score system
-- Simple UI
+- 🔐 Cyber Security
+- ⚙️ Backend Development
+- 🤖 Artificial Intelligence
+- 🌐 Networking
+- 🗄️ Database
 
 ---
 
-### 🏥 Clinic Queue Management System
+# 🛠 Tech Stack
 
-A clinic queue management application built using **Python** and **MySQL**.
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,git,github,linux,vscode,unity"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+Python
+Linux
+MySQL
+REST API
+Cyber Security
+Backend Development
+```
+
+---
+
+# 🚀 Featured Projects
+
+## 🎮 Flappy Bird Game
+
+> Unity recreation of the classic Flappy Bird.
+
+**Tech**
+
+`Unity` `C#`
+
+---
+
+## 🏥 Clinic Queue Management System
+
+> Queue management system using Python & MySQL.
+
+**Tech**
+
+`Python` `MySQL`
 
 **Data Structures**
 
-- Hash Table
-- Heap (Priority Queue)
 - Queue
+- Heap
 - Stack
+- Hash Table
 - List
 
-**Features**
+---
 
-- Patient registration
-- Queue management
-- Priority queue
-- Data processing
+# 🏆 Achievements
+
+🥇 Champion — **Dekan Cup Basketball Tournament**
+
+> Winning taught me that talent can start the journey, but discipline and consistency keep you moving forward.
 
 ---
 
-## Beyond Coding
+# 📜 Certificates
 
-🥇 **Champion — Dekan Cup Basketball Tournament**
+<div align="center">
 
-> Winning taught me that talent can start the journey, but discipline and consistency are what keep you moving forward.
+| 🎓 Certificate | 🔗 Link |
+|:--------------|:-------:|
+| 🛡️ Ethical Hacker For Dummies | <a href="./certificates/Sertifikat_MUHAMMAD%20ALBAR%20AL-ZAKY_Ethical%20Hacker%20For%20Dummies.pdf">View</a> |
+| 🔐 Keamanan Informasi Dasar | <a href="./certificates/Sertifikat_MUHAMMAD%20ALBAR%20AL-ZAKY_Keamanan%20Informasi%20Dasar_%20Cara%20Mengamankan%20Akun%20Digital%20dari%20Peretasan%20(1).pdf">View</a> |
 
----
-
-## Goals
-
-- Build more backend projects
-- Learn penetration testing
-- Explore AI applications
-- Improve problem-solving skills
-- Contribute to open-source projects
+</div>
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Zaky-not&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaky-not&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zaky-not&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zaky-not&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## Connect
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:zakyyxd123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=gmail" width="48"/>
 </a>
 
-<a href="https://github.com/Zaky-not">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://discord.com/users/notzkyy">
+<img src="https://skillicons.dev/icons?i=discord" width="48"/>
 </a>
 
-<a href="https://www.instagram.com/jaky.not.jek.2233">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://open.spotify.com/user/314mgej22pw4xacvldnny7wvntve">
+<img src="https://skillicons.dev/icons?i=spotify" width="48"/>
 </a>
 
 </p>
 
 ---
 
-## Quote
+# 💭 Favorite Quote
 
 > *"You will never be ready. Just start."*
 
 ---
 
-<div align="center">
+<p align="center">
 
-### Thanks for visiting my profile!
+### Thanks for visiting my profile ❤️
 
-**Keep Grinding, Just For You. 🚀**
+*"Keep Learning • Keep Building • Keep Growing."*
 
-</div>
+</p>
