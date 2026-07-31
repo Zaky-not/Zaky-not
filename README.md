@@ -1,26 +1,56 @@
-<!-- Ini bagian visitor badge (opsional) -->
 <div align="center">
-    <p>
-        <img src="https://count.getloli.com/@Zaky-not?name=Zaky-not&theme=booru-vp&darkmode=auto" alt="Zaky-not">
-    </p>
+
+<img src="https://count.getloli.com/@Zaky-not?name=Zaky-not&theme=booru-vp&padding=5&offset=0&align=center&scale=0.8&pixelated=1&darkmode=auto"/>
+
 </div>
 
-<!-- TEMPEL KODE GAMBAR ICHIGO DI SINI -->
-<img src="./assets/ichigo.jpg" align="left" alt="ichigo kurosaki" width="30%">
-
-<!-- Ini blok kode teks terminal fastfetch -->
 ```zsh
-zaky@unja: ~/readme $ fastfetch
+zaky@Notebook:~$ fastfetch
+```
 
-------------------------------------------------------------
-username: Zaky-not
-whoami: student, code enjoyer :3
-os: linux / windows
-languages: python, c, javascript, c#
-learning: backend development & unity
-music: selfless - the strokes 
-hobbies: coding, gaming, running, swimming, and self-love
-favorite_anime: bleach( bankai!!)
-favorite_game: i think MLBB and Minecraft rn
-------------------------------------------------------------
-<img src="./assets/ichigo.jpg" align="left" alt="ichigo kurosaki" width="30%">
+<img src="assets/ichigo.png" align="left" width="30%">
+
+```yaml
+-------------------------------------------------------
+username: Zaky
+role: informatics Student
+whoami: Backend Developer and netowrker?
+location: Indonesia
+currently_learning: backend_development
+languages: python, c#, c
+interests: cybersec and AI
+hobbies: Coding, Gaming, Music,Coffee ☕
+favorite_games: i think mlbb and minecraft rn
+favorite_anime: bleach (bankaii!!)
+song: selfless - the strokes
+-------------------------------------------------------
+```
+
+<br clear="left"/>
+
+## ⚡ Languages & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,unity,linux,c#," />
+
+</p>
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zaky-not&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zaky-not&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+<div align="center">
+
+### Thanks for coming! 
+
+
+</div>
