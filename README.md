@@ -4,16 +4,6 @@
 <details>
 <summary><b>👉 Click to fell me</b></summary>
 
-<h1 align="center">Hi 👋, I'm Muhammad Albar Al-Zaky</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Informatics+Student;Cyber+Security+Enthusiast;Backend+Developer;Artificial+Intelligence+Learner;Always+Learning+New+Things..." alt="Typing SVG"/>
-</p>
-
-<p align="center">
-Learning • Building • Improving
-</p>
-
 ---
 
 # 🚀 About Me
