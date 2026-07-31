@@ -28,16 +28,14 @@ song: selfless - the strokes
 
 <br clear="left"/>
 
-## ⚡ Languages & Tools
+
+<h2 align="center"> Languages & Tools</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,unity,linux,c#," />
-
+  <img src="https://skillicons.dev/icons?i=python,vscode,mysql,git,github,vscode,figma,unity,c# ,linux " />
 </p>
 
-
-## 📊 GitHub Stats
+<h2 align="center"> GitHub Stats</h2>
 
 <div align="center">
 
@@ -47,10 +45,9 @@ song: selfless - the strokes
 
 </div>
 
-
 <div align="center">
 
-### Thanks for coming! 
+### Thanks for coming:)
 
 
 </div>
