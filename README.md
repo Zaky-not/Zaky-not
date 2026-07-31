@@ -6,7 +6,7 @@
 ```markdown
 zaky@albert: ~/readme $ fastfetch
 
-
+<img src="assets/cat_L.png" align="left" alt="death note L" width="30%">
 
 
 --------------------------------------------------
