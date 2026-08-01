@@ -14,7 +14,7 @@ zaky@Notebook:~$ fastfetch
 -------------------------------------------------------
 username: Zaky
 role: informatics Student
-whoami: Backend Developer and netowrker?
+whoami: Backend Developer and networking?
 location: Indonesia
 currently_learning: backend_development
 languages: python, c#, c
